@@ -11,7 +11,7 @@ from crud_functions_for_14_5 import get_all_products, add_user, is_included
 
 
 
-api = "7612810185:AAF3uy1raG1EH2x8bLwhZbAs7lskd_kW6ZU" #"???token_bot???"
+api = "???token_bot???"
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
